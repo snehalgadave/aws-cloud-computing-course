@@ -1,0 +1,60 @@
+
+*What is cloud ?
+
+->  cloud computing is renting instead of buying your IT. Rather than investing heavily in databases, software, and equipment, companies are opting to  access their      compute power via the internet and pay for it as they use it.
+   when a company chooses to “move to the cloud,” it means that its IT infrastructure is stored offsite, at a data center that is maintained by the cloud computing    provider (such as Oracle). The cloud provider has the responsibility for managing the customer’s IT infrastructure, integrating applications, and developing new    capabilities and functionality to keep pace with market demands.
+   For customers, cloud computing offers more agility, scale, and flexibility. Instead spending money and resources on legacy IT systems, customers are able to focus      more strategic tasks. Without making a large upfront investment, companies can quickly access the computing resources they need—and only pay for what they need.
+
+*Advantages of cloud
+-> 
+ 1> Cost Savings
+
+   Cost saving is the biggest benefit of cloud computing. It helps you to save substantial capital cost as it does not need any physical hardware investments. Also,       you do not need trained personnel to maintain the hardware. The buying and managing of equipment is done by the cloud service provider. 
+
+ 2> Strategic edge 
+
+  Cloud computing offers a competitive edge over your competitors. It helps you to access the latest and applications any time without spending your time and money on    installations.
+
+ 3> High Speed 
+
+   Cloud computing allows you to deploy your service quickly in fewer clicks. This faster deployment allows you to get the resources required for your system within       fewer minutes. 
+
+ 4> Back-up and restore data 
+
+   Once the data is stored in a Cloud, it is easier to get the back-up and recovery of that, which is otherwise very time taking process on-premise. 
+
+ 5> Automatic Software Integration
+
+    In the cloud, software integration is something that occurs automatically. Therefore, you don't need to take additional efforts to customize and integrate your         applications as per your preferences.
+ 
+ 6> Reliability
+
+    Reliability is one of the biggest pluses of cloud computing. You can always get instantly updated about the changes. 
+
+ 7> Mobility
+
+    Employees who are working on the premises or at the remote locations can easily access all the could services. All they need is an Internet connectivity
+
+ 8> Unlimited storage capacity
+
+   The cloud offers almost limitless storage capacity. At any time you can quickly expand your storage capacity with very nominal monthly fees. 
+
+ 9> Collaboration
+
+   The cloud computing platform helps employees who are located in different geographies to collaborate in a highly convenient and secure manner. 
+
+ 10> Quick Deployment
+
+    cloud computing gives you the advantage of rapid deployment. So, when you decide to use the cloud, your entire system can be fully functional   in very few        minutes. Although, the amount of time taken depends on what kind of technologies are used in your business. 
+
+
+   //*EC-2*//
+
+    Amazon Elastic Compute Cloud (Amazon EC2) provides scalable computing capacity in the Amazon Web Services (AWS) cloud. Using Amazon EC2 eliminates your need to    invest in hardware up front, so you can develop and deploy applications faster. You can use Amazon EC2 to launch as many or as few virtual servers as you need,       configure security and networking, and manage storage. Amazon EC2 enables you to scale up or down to handle changes in requirements or spikes in popularity,       reducing your need to forecast traffic. 
+   
+
+
+
+
+
+
